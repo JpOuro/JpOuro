@@ -1,7 +1,6 @@
 <h1 align="center">Sobre mim</h1>
 <p align="center" style="font-weight: normal">Estudante de Ciência da Computação na Universidade Federal de Goiás</p>
 <p align="center">Participei da iniciativa Bolsa Futuro Digital, onde adquiri experiência desenvolvendo uma aplicação real em utilizando Node, React e Typescript.</p>
-<p align="center">Interessado em desenvolvimento web Full Stack.</p>
 <h2 align="left">Ferramentas</h2>
 <p align="left">
 <a rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a>
